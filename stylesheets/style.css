@@ -1,0 +1,80 @@
+.container {
+    width: 960px;
+}
+
+.par {
+    position: relative;
+    top: 75px;
+}
+
+#line {
+    position: absolute;
+}
+
+#logo {
+    position: absolute; 
+    left: 15px;
+}
+
+#home {
+    position: absolute;
+    left: 450px;
+    color: white;
+}
+
+#homeCur {
+    position: absolute;
+    left: 450px;
+    color: black;
+    background-color: aliceblue
+}
+
+#users {
+    position: absolute;
+    left: 525px;
+    color: white;
+}
+
+#usersCur {
+    position: absolute;
+    left: 525px;
+    color: black;
+    background-color: aliceblue
+}
+
+#blogs {
+    position: absolute;
+    left: 600px;
+    color: white;
+}
+
+#blogsCur {
+    position: absolute;
+    left: 600px; 
+    color: black;
+    background-color: aliceblue  
+}
+
+#about {
+    position: absolute;
+    left: 675px;
+    color: white;
+}
+
+#aboutCur {
+    position: absolute;
+    left: 675px;
+    color: black;
+    background-color: aliceblue;
+}
+
+#ava {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info {
+    text-align: center;
+}
