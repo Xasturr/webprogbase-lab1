@@ -4,61 +4,90 @@
 
 .par {
     position: relative;
-    top: 75px;
+    top: 65px;
 }
 
 #line {
     position: absolute;
+    top: 0px;
 }
 
 #logo {
     position: absolute; 
     left: 15px;
+    top: 0px;
 }
 
 #home {
     position: absolute;
     left: 450px;
     color: white;
+    top: 0px;
+}
+
+#home:hover {
+    color: black;
+    background-color: gray;
 }
 
 #homeCur {
     position: absolute;
     left: 450px;
     color: black;
-    background-color: aliceblue
+    background-color: aliceblue;
+    top: 0px;
 }
 
 #users {
     position: absolute;
     left: 525px;
     color: white;
+    top: 0px;
+}
+
+#users:hover {
+    color: black;
+    background-color: gray;
 }
 
 #usersCur {
     position: absolute;
     left: 525px;
     color: black;
-    background-color: aliceblue
+    background-color: aliceblue;
+    top: 0px;
 }
 
 #blogs {
     position: absolute;
     left: 600px;
     color: white;
+    top: 0px;
+}
+
+#blogs:hover {
+    color: black;
+    background-color: gray;
 }
 
 #blogsCur {
     position: absolute;
     left: 600px; 
     color: black;
-    background-color: aliceblue  
+    background-color: aliceblue;  
+    top: 0px;
 }
 
 #about {
     position: absolute;
     left: 675px;
     color: white;
+    top: 0px;
+}
+
+#about:hover {
+    color: black;
+    background-color: gray;
 }
 
 #aboutCur {
@@ -66,6 +95,7 @@
     left: 675px;
     color: black;
     background-color: aliceblue;
+    top: 0px;
 }
 
 #ava {
